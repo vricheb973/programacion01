@@ -1,0 +1,16 @@
+# Ignorar metadatos del workspace de Eclipse
+.metadata/
+
+# Ignorar archivos de configuración locales
+*.tmp
+*.bak
+*.swp
+
+# Ignorar directorios de compilación comunes
+bin/
+target/
+.settings/
+
+# Mantener archivos del proyecto Eclipse
+!.project
+!.classpath
