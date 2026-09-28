@@ -6,10 +6,11 @@ public class Variables {
 		
 		// Declaramos una variable
 		//declaración    asignación
-		double importe;  
+		
 		
 		double precio = 1.5;
 		
+		double importe;  
 		importe = 5 * precio;
 		
 		String cadena = "Palabra";
