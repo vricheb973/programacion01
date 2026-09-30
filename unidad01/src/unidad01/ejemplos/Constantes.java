@@ -1,4 +1,4 @@
-package unidad01;
+package unidad01.ejemplos;
 
 public class Constantes {
 
