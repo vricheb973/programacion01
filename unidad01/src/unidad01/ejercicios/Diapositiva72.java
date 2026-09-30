@@ -26,8 +26,6 @@ public class Diapositiva72 {
 		
 		System.out.printf("La media es %.3f \n", mediaAritmetica);
 		
-		
-
 	}
 
 }
