@@ -23,7 +23,7 @@ public class Ejercicio17 {
 		
 		int invertido = unidades * 10 + decenas;
 		
-		System.out.println(unidades + "" + decenas );
+		System.out.println(invertido);
 		
 		
 
