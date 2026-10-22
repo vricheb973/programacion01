@@ -28,8 +28,13 @@ public class Ejercicio19 {
 //		System.out.println("¿Eres vip? NO/SI");
 //		String vipS = scanner.next();
 		
+		//   expresión boolean  ?    parte true  :   parte false;
+		
+		boolean condicion = (edad >= 18 || vipB);
+		
+		String mensaje = condicion ? "Acceso permitido" : "Acceso denegado";
 
-		String mensaje = (edad >= 18 || vipB) ? "Acceso permitido" : "Acceso denegado";
+		double precio = (edad >= 18 || vipB) ? 5.0 : 10.0;
 //		String mensaje = (edad >= 18 || vipE == 1) ? "Acceso permitido" : "Acceso denegado";
 //		String mensaje = (edad >= 18 || vipS.equals("SI")) ? "Acceso permitido" : "Acceso denegado";
 		
